@@ -36,7 +36,7 @@ dependencies:
   http: ^1.2.1                     # Para hacer llamadas a nuestra API .NET
   provider: ^6.1.2                 # Para gestión de estado (como tu profe)
   shared_preferences: ^2.2.3     # Para guardar el token del usuario en el teléfono
-  
+
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
@@ -91,3 +91,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+shared_preferences: ^2.2.3 # <-- AÑADE ESTA LÍNEA
